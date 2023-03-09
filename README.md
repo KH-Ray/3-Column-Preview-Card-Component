@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://uncertainlysure.github.io/3-Column-Preview-Card-Component/
 
 ## My process
 
@@ -173,7 +173,7 @@ The mobile design could use more improvement.
 
 ### Useful resources
 
-- [Bootsrap Website](https://getbootstrap.com/) - This help me get to know more about the grid system bootstrap has..\*\*
+- [Bootsrap Website](https://getbootstrap.com/) - This help me get to know more about the grid system bootstrap has
 
 ## Author
 
