@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:  https://khanza-arrayyan.github.io/3-Column-Preview-Card-Component/
+- Live Site URL:  [3 Column Preview Card Component](https://kh-ray.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
 
